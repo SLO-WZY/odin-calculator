@@ -9,11 +9,11 @@
 
 ## 🐞 Must Have / Bugs
 - [x] Fix sizing to work at 100% zoom  
-- [ ] Limit to only 1 decimal point (".") per number input  
-- [ ] Limit display to 12 digits max (even in operations like `1/3`)  
+- [x] Limit to only 1 decimal point (".") per number input  
+- [x] Limit display to 15 digits max (even in operations like `1/3`)  -> done but weird with big numbers
 
 ## 💡 New Ideas – Low Priority
 - { } Add keyboard input  
 
 ## 🚀 New Features – High Priority
-- < > less eye-strain background (=/= white)
+- <x> less eye-strain background (=/= white)
