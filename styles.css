@@ -9,6 +9,7 @@ body {
     display: flex;
     flex-direction: column;
     transform: scale(0.7);
+    background-color: rgba(136, 131, 177, 0.712);
     
 }
 
@@ -16,7 +17,7 @@ body {
     border: 5px solid #2E2E2E;
     width: 1000px;
     height: 1400px;
-    margin: 70px auto;
+    margin: -100px auto;
     border-radius: 80px;
     background-color: #F0F0F0;
 }
