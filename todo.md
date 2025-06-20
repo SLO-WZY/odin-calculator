@@ -16,4 +16,4 @@
 - { } Add keyboard input  
 
 ## 🚀 New Features – High Priority
-- < > 
+- < > less eye-strain background (=/= white)
