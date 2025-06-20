@@ -8,7 +8,7 @@
 ---
 
 ## 🐞 Must Have / Bugs
-- [ ] Fix sizing to work at 100% zoom  
+- [x] Fix sizing to work at 100% zoom  
 - [ ] Limit to only 1 decimal point (".") per number input  
 - [ ] Limit display to 12 digits max (even in operations like `1/3`)  
 
