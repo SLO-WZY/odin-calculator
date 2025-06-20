@@ -5,7 +5,7 @@ A simple, responsive calculator built as part of The Odin Project using HTML, CS
 ## Features
 - Basic math operations (+, -, *, /)  
 - Floating point number support  
-- Display limit of 12 characters (planned)
+- Display limit of 15 characters
 - Keyboard input support (planned)   
 
 ## How to Run
